@@ -53,3 +53,14 @@ body {
     font-size: 32px;
     font-family: Nunito, bold;
 }
+
+.news_column {   
+    float: left;
+    width: 100%;
+}
+
+.news_card {
+    background-color: rgb(252, 253, 255);
+    padding: 20px;
+    font-family: Nunito;
+}
