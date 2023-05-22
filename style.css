@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    margin: 0;
+}
+
+.content {
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Nunito;
+    font-size: 18px;
+}
+
+.topnav {
+    padding: 20px 8px;
+    background: rgb(255,199,199);
+    background: linear-gradient(312deg, rgba(255,199,199,1) 0%, rgba(245,180,180,1) 100%);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
+
+.topnav c {
+    float: left;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
+
+.header {
+    padding: 70px;
+    background: rgb(255,199,199);
+    background: linear-gradient(312deg, rgba(255,199,199,1) 0%, rgba(245,180,180,1) 100%);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: Nunito, bold;
+}
+
+.news_column {   
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+
+.news_card {
+    background-color: rgb(252, 253, 255);
+    padding: 20px;
+    font-family: Nunito;
+}
+
+.news_test {
+    background-color: rgb(252, 253, 255);
+    border-left: 55px solid black;
+    height: 5px;
+}
+
+.news_text_big {
+    font-size: 32px;
+}
+
+.news_text_normal {
+    font-size: 18px;
+    font-family: Nunito;
+    padding-top: 15px;
+}
+
+.news_text_normal_second {
+    font-size: 16px;
+    font-family: Nunito;
+    padding-top: 5px;
+}
+
+.news_text_small {
+    font-size: 12px;
+    font-family: Nunito;
+}
+
+.test_column {   
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+
+.test_card {
+    background-color: rgb(252, 253, 255);
+    padding: 20px;
+    font-family: Nunito;
+}
+
+.test_test {
+    background-color: rgb(252, 253, 255);
+    border-left: 55px solid black;
+    height: 5px;
+}
+
+.test_text_big {
+    font-size: 22px;
+}
+
+.test_text_normal {
+    font-size: 18px;
+    font-family: Nunito;
+    padding-top: 15px;
+}
+
+.test_text_normal_second {
+    font-size: 16px;
+    font-family: Nunito;
+    padding-top: 5px;
+}
