@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.topnav {
+    padding: 20px 8px;
+    background: rgb(204, 158, 158);
+    background: linear-gradient(312deg, rgba(204, 158, 158, 1) 0%, rgb(190, 140, 140) 100%);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
+
+.topnav c {
+    float: left;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
