@@ -1,4 +1,5 @@
-# fluffieos.github.io
-Great and cute Windows-based system!
+# FluffieOS Website
+A Website for Great and cute Windows-based system!
 
-Please! Don't copy this site!
+# Copyright
+If u want use some content from our website in your project, please mention the authors of the site!
