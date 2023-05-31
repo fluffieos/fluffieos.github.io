@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgb(26, 26, 26);
+    user-select: none;
+}
+
+.topnav {
+    padding: 20px 8px;
+    background: rgb(204, 158, 158);
+    background: linear-gradient(312deg, rgba(204, 158, 158, 1) 0%, rgb(190, 140, 140) 100%);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #000000;
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
+
+.topnav c {
+    float: left;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito;
+}
+
+.header {
+    padding: 70px;
+    background: rgb(204, 158, 158);
+    background: linear-gradient(312deg, rgba(204, 158, 158, 1) 0%, rgb(190, 140, 140) 100%);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: Nunito, bold;
+}
+
+.news_column {   
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+
+.news_card {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    font-family: Nunito;
+}
+
+.news_test {
+    background-color: rgb(26, 26, 26);
+    border-left: 55px solid rgb(214, 214, 214);
+    height: 5px;
+}
+
+.news_text_big {
+    font-size: 32px;
+    color: rgb(214, 214, 214);
+}
+
+.news_text_normal {
+    font-size: 18px;
+    font-family: Nunito;
+    padding-top: 15px;
+    color: rgb(214, 214, 214);
+}
+
+.news_text_normal_second {
+    font-size: 16px;
+    font-family: Nunito;
+    padding-top: 5px;
+    color: rgb(214, 214, 214);
+}
+
+.news_text_small {
+    font-size: 12px;
+    font-family: Nunito;
+    color: rgb(214, 214, 214);
+}
+
+.main_column {   
+    float: left;
+    width: 100%;
+    padding: 0px;
+}
+
+.main_card {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    font-family: Nunito;
+}
+
+.main_test {
+    background-color: rgb(26, 26, 26);
+    border-left: 55px solid rgb(214, 214, 214);
+    height: 5px;
+}
+
+.main_text_big {
+    font-size: 20px;
+    color: rgb(214, 214, 214);
+}
+
+.main_text_normal {
+    font-size: 18px;
+    font-family: Nunito;
+    color: rgb(214, 214, 214);
+    padding-top: 15px;
+}
+
+.main_text_normal_second {
+    font-size: 16px;
+    color: rgb(214, 214, 214);
+    padding-top: 5px;
+}
+
+.main_text_small {
+    font-size: 12px;
+    font-family: Nunito;
+    color: rgb(214, 214, 214);
+}
+
+details {
+    padding: 20px;
+    font-family: Nunito;
+    background-color: rgb(26, 26, 26);
+    color: rgb(214, 214, 214);
+}
